@@ -2,24 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Pragmatic AI pairing: Learn faster. Build smarter. Deliver more."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Robert A. Begg</p>
+    <p>Guelph, ON, Canada</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -27,8 +20,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an experienced software development leader currently diving back into hands-on development,
+driven by a personal mission.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My mission is to create 'Max'—a viable, locally-hosted AI assistant—to help seniors who feel left behind by technology.
+I've witnessed how quality of life suffers when technology becomes a barrier, preventing them from:
+- Operating a smart TV
+- Messaging, calling or video-chatting with family and friends
+- Managing appointments or navigating their environment
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This site, Augmented Development, documents my journey along three key paths:
+1. Delivering Max: An ethical, privacy-first AI assistant to help maximize a user's quality of life.
+2. A Pragmatic Journey: Exploring how AI can augment a developer's skills and abilities, from bootstrapping to mastery.
+3. Modern Leadership: Gaining fresh, hands-on experience to lead technical teams with current, practical insight.
+
+My goal is to share this journey openly. 
+If you're a developer exploring AI, a leader building new teams, or just curious about 'Max', 
+I hope you find these posts valuable. 
+Please follow the topics that matter to you, and I look forward to the conversation.

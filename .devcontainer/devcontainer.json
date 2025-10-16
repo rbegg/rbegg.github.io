@@ -11,6 +11,8 @@
     },
     "ghcr.io/devcontainers-extra/features/prettier:1.0.2": {}
   },
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [4000],
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
   "postAttachCommand": "./bin/entry_point.sh",
