@@ -58,9 +58,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-ai-pairing-what-39-s-working-for-me",
+            },{id: "post-beyond-the-hype-what-39-s-working-for-me-in-ai-pairing",
         
-          title: "AI Pairing: What&#39;s Working for Me",
+          title: "Beyond the Hype: What&#39;s Working for Me in AI Pairing",
         
         description: "How pairing with Google Gemini has supercharged my learning",
         section: "Posts",
