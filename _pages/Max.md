@@ -4,7 +4,7 @@ title: Max
 permalink: /max-project/
 description: An Ethical AI Assistant for a Better Quality of Life
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
