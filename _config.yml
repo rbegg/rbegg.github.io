@@ -133,7 +133,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # Newsletter
 # -----------------------------------------------------------------------------
 
-
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -251,7 +250,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

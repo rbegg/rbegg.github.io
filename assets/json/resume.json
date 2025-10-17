@@ -128,70 +128,27 @@
     },
     {
       "name": "Languages",
-      "keywords": [
-        "C",
-        "Python",
-        "Java",
-        "C++",
-        "C#",
-        "GO",
-        "JavaScript",
-        "TypeScript"
-      ]
+      "keywords": ["C", "Python", "Java", "C++", "C#", "GO", "JavaScript", "TypeScript"]
     },
     {
       "name": "Web Technologies",
-      "keywords": [
-        "Angular",
-        "React",
-        "NPM",
-        "REST APIs",
-        "JBOSS",
-        "Apache",
-        "NIGINX"
-      ]
+      "keywords": ["Angular", "React", "NPM", "REST APIs", "JBOSS", "Apache", "NIGINX"]
     },
     {
       "name": "Cloud / Virtualization",
-      "keywords": [
-        "Amazon Web Services (AWS)",
-        "VMWare",
-        "Docker",
-        "Kubernetes"
-      ]
+      "keywords": ["Amazon Web Services (AWS)", "VMWare", "Docker", "Kubernetes"]
     },
     {
       "name": "Database / Data",
-      "keywords": [
-        "SQL",
-        "Pandas",
-        "Tableau",
-        "Snowflake",
-        "DB2",
-        "PostgreSQL",
-        "ETL"
-      ]
+      "keywords": ["SQL", "Pandas", "Tableau", "Snowflake", "DB2", "PostgreSQL", "ETL"]
     },
     {
       "name": "Operating Systems / Tools",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "CI/CD",
-        "Git",
-        "Gitlab / GitHub",
-        "Jira",
-        "Confluence"
-      ]
+      "keywords": ["Linux", "Windows", "CI/CD", "Git", "Gitlab / GitHub", "Jira", "Confluence"]
     },
     {
       "name": "Methodologies",
-      "keywords": [
-        "Agile",
-        "Scrum",
-        "Lean Software Development",
-        "Collaborative Leadership"
-      ]
+      "keywords": ["Agile", "Scrum", "Lean Software Development", "Collaborative Leadership"]
     }
   ]
 }
