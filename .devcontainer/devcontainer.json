@@ -11,7 +11,7 @@
     },
     "ghcr.io/devcontainers-extra/features/prettier:1.0.2": {},
     "ghcr.io/dhoeric/features/act:1": {},
-    "ghcr.io/devcontainers/features/docker-from-docker:1": {},
+    "ghcr.io/devcontainers/features/docker-from-docker:1": {}
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [4000],
@@ -30,9 +30,7 @@
       }
     },
     "jetbrains": {
-      "plugins": [
-        "intellij.prettierJS"
-      ]
+      "plugins": ["intellij.prettierJS"]
     }
   },
 
