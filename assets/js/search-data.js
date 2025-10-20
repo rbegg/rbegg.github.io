@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "Beyond the Hype: What&#39;s Working for Me in AI Pairing",
         
-        description: "How pairing with Google Gemini has supercharged my learning",
+        description: "How Google Gemini has supercharged my learning",
         section: "Posts",
         handler: () => {
           
