@@ -46,7 +46,7 @@ If you're lucky, you can then find a complete project that's close enough to you
 your project. After a few refactoring loops, you either have a workable **baseline** or you've learned enough to abandon
 that approach and start over.
 
-On the flip side, I've seen many teams fall into the *custom code trap*. They decide their use case is simpler and
+On the flip side, I've seen many teams fall into the _custom code trap_. They decide their use case is simpler and
 a custom solution will be faster. While this sometimes works, in my experience, additional requirements are
 discovered and the custom solution grows in complexity until it's obvious the existing framework would have been the
 better choice.
@@ -94,6 +94,7 @@ Gemini reminded me of a very confident senior developer, who always had an answe
 right. However, Gemini also has a lot more patience than most senior developers.
 
 To get a more realistic experience, I may try setting a system prompt along the lines of:
+
 ```markdown
 You are a grumpy experienced senior developer, who just wants to get back to writing their own code.
 Be stingy with your compliments so they mean more.
